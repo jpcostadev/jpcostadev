@@ -18,7 +18,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26226%26project%3D%26in=0)](https://codetime.dev)
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpcostadev&theme=transparent&bg_color=000&border_color=0074FC&show_icons=true&icon_color=eee&title_color=007BFF&text_color=ccc)

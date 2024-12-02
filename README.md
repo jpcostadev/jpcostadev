@@ -22,7 +22,8 @@
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpcostadev&theme=transparent&bg_color=000&border_color=0074FC&show_icons=true&icon_color=eee&title_color=007BFF&text_color=ccc)
+
+![jpcostadev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpcostadev&theme=vue-dark&hide_border=false)
 
 ## Minhas contribuições
 

@@ -8,7 +8,7 @@
   </defs>
   <rect x="1" y="1" width="978" height="328" rx="18" fill="url(#bg)" stroke="#30363d"/>
   <rect x="0" y="0" width="980" height="4" rx="2" fill="#06b6d4"/>
-  <text x="34" y="48" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Sua jornada no GitHub</text>
+  <text x="34" y="48" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Histórico de contribuições</text>
   <text x="946" y="48" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" text-anchor="end">695 contribuições no total</text>
   <text x="34" y="70" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">Histórico anual desde a criação da conta • 2026 até 13 de setembro</text>
   <line x1="70" y1="266" x2="930" y2="266" stroke="#30363d"/>

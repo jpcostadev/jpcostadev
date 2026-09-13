@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagens mais usadas</title>
+  <desc id="desc">PHP 43,5%, Twig 26,5%, CSS 14,6%, JavaScript 7,2%, TypeScript 6,2% e HTML 1,8%</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="478" height="228" rx="16" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="0" y="0" width="480" height="4" rx="2" fill="#8b5cf6"/>
+  <text x="28" y="42" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Linguagens mais usadas</text>
+  <text x="28" y="63" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="11">Todos os repositórios públicos • calculado por volume de código</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="12">
+    <circle cx="34" cy="92" r="6" fill="#777bb4"/><text x="48" y="96" fill="#c9d1d9">PHP</text><text x="219" y="96" fill="#e6edf3" text-anchor="end">43,5%</text>
+    <circle cx="259" cy="92" r="6" fill="#a78bfa"/><text x="273" y="96" fill="#c9d1d9">Twig</text><text x="446" y="96" fill="#e6edf3" text-anchor="end">26,5%</text>
+    <circle cx="34" cy="128" r="6" fill="#563d7c"/><text x="48" y="132" fill="#c9d1d9">CSS</text><text x="219" y="132" fill="#e6edf3" text-anchor="end">14,6%</text>
+    <circle cx="259" cy="128" r="6" fill="#f1e05a"/><text x="273" y="132" fill="#c9d1d9">JavaScript</text><text x="446" y="132" fill="#e6edf3" text-anchor="end">7,2%</text>
+    <circle cx="34" cy="164" r="6" fill="#3178c6"/><text x="48" y="168" fill="#c9d1d9">TypeScript</text><text x="219" y="168" fill="#e6edf3" text-anchor="end">6,2%</text>
+    <circle cx="259" cy="164" r="6" fill="#e34c26"/><text x="273" y="168" fill="#c9d1d9">HTML</text><text x="446" y="168" fill="#e6edf3" text-anchor="end">1,8%</text>
+  </g>
+  <g transform="translate(28 194)">
+    <rect width="424" height="12" rx="6" fill="#21262d"/>
+    <rect width="184.4" height="12" rx="6" fill="#777bb4"><animate attributeName="width" from="0" to="184.4" dur="1s" fill="freeze"/></rect>
+    <rect x="184.4" width="112.4" height="12" fill="#a78bfa"/>
+    <rect x="296.8" width="61.9" height="12" fill="#563d7c"/>
+    <rect x="358.7" width="30.5" height="12" fill="#f1e05a"/>
+    <rect x="389.2" width="26.3" height="12" fill="#3178c6"/>
+    <rect x="415.5" width="7.6" height="12" rx="0 6 6 0" fill="#e34c26"/>
+  </g>
+</svg>

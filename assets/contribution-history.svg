@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="330" viewBox="0 0 980 330" role="img" aria-labelledby="title desc">
+  <title id="title">Histórico de contribuições desde 2022</title>
+  <desc id="desc">2 contribuições em 2022, 124 em 2023, 45 em 2024, 51 em 2025 e 473 em 2026, totalizando 695</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="978" height="328" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="0" y="0" width="980" height="4" rx="2" fill="#06b6d4"/>
+  <text x="34" y="48" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Sua jornada no GitHub</text>
+  <text x="946" y="48" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" text-anchor="end">695 contribuições no total</text>
+  <text x="34" y="70" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">Histórico anual desde a criação da conta • 2026 até 13 de setembro</text>
+  <line x1="70" y1="266" x2="930" y2="266" stroke="#30363d"/>
+  <line x1="70" y1="219" x2="930" y2="219" stroke="#21262d" stroke-dasharray="5 7"/>
+  <line x1="70" y1="172" x2="930" y2="172" stroke="#21262d" stroke-dasharray="5 7"/>
+  <line x1="70" y1="125" x2="930" y2="125" stroke="#21262d" stroke-dasharray="5 7"/>
+  <g fill="url(#bar)">
+    <rect x="116" y="265" width="92" height="1" rx="8"><animate attributeName="y" from="266" to="265" dur=".6s" fill="freeze"/><animate attributeName="height" from="0" to="1" dur=".6s" fill="freeze"/></rect>
+    <rect x="284" y="220" width="92" height="46" rx="8"><animate attributeName="y" from="266" to="220" dur=".8s" fill="freeze"/><animate attributeName="height" from="0" to="46" dur=".8s" fill="freeze"/></rect>
+    <rect x="452" y="249" width="92" height="17" rx="8"><animate attributeName="y" from="266" to="249" dur="1s" fill="freeze"/><animate attributeName="height" from="0" to="17" dur="1s" fill="freeze"/></rect>
+    <rect x="620" y="247" width="92" height="19" rx="8"><animate attributeName="y" from="266" to="247" dur="1.2s" fill="freeze"/><animate attributeName="height" from="0" to="19" dur="1.2s" fill="freeze"/></rect>
+    <rect x="788" y="90" width="92" height="176" rx="8" filter="url(#glow)"><animate attributeName="y" from="266" to="90" dur="1.4s" fill="freeze"/><animate attributeName="height" from="0" to="176" dur="1.4s" fill="freeze"/></rect>
+  </g>
+  <g fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    <text x="162" y="253">2</text><text x="330" y="207">124</text><text x="498" y="236">45</text><text x="666" y="234">51</text><text x="834" y="78" fill="#67e8f9">473</text>
+  </g>
+  <g fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="14" text-anchor="middle">
+    <text x="162" y="296">2022</text><text x="330" y="296">2023</text><text x="498" y="296">2024</text><text x="666" y="296">2025</text><text x="834" y="296">2026</text>
+  </g>
+</svg>

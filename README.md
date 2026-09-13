@@ -12,6 +12,7 @@
 </p>
 
 </div>
+
 ## 👨‍💻 Sobre mim
 
 Sou um desenvolvedor apaixonado por tecnologia, produtos digitais e soluções inteligentes. Gosto de unir desenvolvimento web, automação e inteligência artificial para transformar ideias em experiências úteis, modernas e bem construídas.
@@ -63,16 +64,18 @@ const joaoPedro = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jpcostadev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcostadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais usadas" />
+<img width="49%" src="./assets/github-overview.svg" alt="Visão geral do GitHub" />
+<img width="49%" src="./assets/languages.svg" alt="Linguagens mais usadas em todos os repositórios públicos" />
 
 <br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jpcostadev&bg_color=0D1117&color=00D9FF&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuições" />
+<img width="98%" src="./assets/contribution-history.svg" alt="Histórico de contribuições desde 2022" />
 
 </div>
 
-## 🐍 Minhas contribuições
+## 🐍 Atividade recente
+
+> O histórico completo desde 2022 está no gráfico acima. A animação abaixo representa os últimos 12 meses e é atualizada automaticamente todos os dias.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jpcostadev/jpcostadev/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" />

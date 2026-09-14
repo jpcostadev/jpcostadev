@@ -51,15 +51,6 @@ const joaoPedro = {
 
 </div>
 
-## 🌟 Projetos em destaque
-
-| Projeto | O que você encontra |
-| :--- | :--- |
-| [🐾 **Fallz Kennel**](https://github.com/jpcostadev/fallz-kennel) | Aplicação moderna desenvolvida com TypeScript. |
-| [🚀 **Painel Star Citizen**](https://github.com/jpcostadev/painelstarcitizen) | Painel web construído em JavaScript. |
-| [🛒 **Minhas Compras**](https://github.com/jpcostadev/minhascompras) | Lista de compras prática desenvolvida com React. |
-| [🌐 **Portfólio**](https://github.com/jpcostadev/jpcostadev.github.io) | Meu espaço pessoal na web e vitrine de projetos. |
-
 ## 📊 GitHub em números
 
 <div align="center">
